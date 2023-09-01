@@ -1,3 +1,9 @@
 h1{
     color: chartreuse;
 }
+p{
+    color: crimson;
+    background-color: aqua;
+    border:15px solid red ;
+    border-radius: 15px ;
+}
